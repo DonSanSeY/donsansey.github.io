@@ -695,6 +695,7 @@ h6 {
 }
 
 .slider__title:after {
+	margin: 0;
 	bottom: -30px;
 }
 
